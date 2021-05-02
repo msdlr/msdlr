@@ -14,7 +14,7 @@
 -->
 ## About me
  - Languages (speaking): Spanish (native), English (C1). 
- - Languages (programming): C, bash/POSIX shell, Java, Golang, C#, Solidity.
+ - Languages (programming): C, bash/POSIX shell, Java, Golang, C#, Solidity, (Micro)Python, JavaScript.
  - Other technology-related aptitudes: Networking (CISCO), OS configuration (GNU/Linux, Windows), service provisioning, microcontrollers (experience with Microchip PIC 16F877A and P18f8520, using C (preferred) and assembly), git, LaTeX.
  - Topics of interest: security, privacy, OSes, networking, self-hosting, Free Software and Open Source, anything Linux.
  - Not interested in: UX, Android/cellphone app development, web development.
