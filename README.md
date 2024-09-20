@@ -13,9 +13,10 @@
 - ⚡ Fun fact: ...
 -->
 ## About me
+Currently working towards my PhD in Universidad de Castilla-La Mancha, Spain. My topics of research are Quality-of-Service (QoS) and Power Management, with my focus on the upcoming BXI3 architecture.
  - Languages (speaking): Spanish (native), English (C1). 
- - Languages (programming): C, bash/POSIX shell, Java, Golang, C#, Solidity, (Micro)Python, JavaScript.
- - Other technology-related aptitudes: Networking (CISCO), OS configuration (GNU/Linux, Windows), service provisioning, Docker 🐳, microcontrollers (experience with Microchip PIC 16F877A and P18f8520, using C (preferred) and assembly), git, LaTeX.
+ - Languages (programming, from most to least proficient imo): bash/POSIX shell, C/C++, Python, Java, Golang, C#, Solidity,  JavaScript.
+ - Other technology-related aptitudes: HPC, Networking (CISCO), OS configuration (GNU/Linux, Windows), service provisioning, Docker 🐳, microcontrollers (experience with Microchip PIC 16F877A and P18f8520, using C (preferred) and assembly), git, LaTeX.
  - Topics of interest: security, privacy, OSes, networking, self-hosting, Free Software and Open Source, anything Linux.
  - Not interested in: UX, Android/cellphone app development, web development.
  
