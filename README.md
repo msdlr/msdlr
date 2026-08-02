@@ -64,9 +64,6 @@ I occasionally contribute fixes and improvements to open-source projects, includ
 - **FreshRSS** — minor language fix.  
   https://github.com/FreshRSS/FreshRSS/pull/5609
 
-- **deb-get** — added the package definition for `grub-customizer`.  
-  https://github.com/wimpysworld/deb-get/pull/518
-
 - **ZapZap** — miscellaneous Spanish translation improvements.  
   https://github.com/rafatosta/zapzap/pull/822
 
